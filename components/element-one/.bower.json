@@ -1,0 +1,36 @@
+{
+  "name": "element-one",
+  "authors": [
+    "Anonymous <anonymous@example.com>"
+  ],
+  "description": "An element providing a solution to no problem in particular.",
+  "keywords": [
+    "web-component",
+    "polymer",
+    "seed"
+  ],
+  "main": "element-one.html",
+  "license": "http://polymer.github.io/LICENSE.txt",
+  "homepage": "https://github.com/<USERNAME>/seed-element/",
+  "ignore": [
+    "/.*",
+    "/test/"
+  ],
+  "dependencies": {
+    "polymer": "Polymer/polymer#^1.2.0"
+  },
+  "devDependencies": {
+    "iron-component-page": "PolymerElements/iron-component-page#^1.0.0",
+    "web-component-tester": "^4.0.0"
+  },
+  "_release": "a2cd9c9546",
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": "a2cd9c954691ee479747e9ff46667517b696467a"
+  },
+  "_source": "git@github.com:allemalamaas/element-one.git",
+  "_target": "master",
+  "_originalSource": "git@github.com:allemalamaas/element-one",
+  "_direct": true
+}
